@@ -7,7 +7,7 @@
  */
 void print_line(int w)
 {
-	int w;
+	int x;
 
 	if (w >= 0)
 	{
