@@ -21,7 +21,7 @@ char *argstostr(int ac, char **av)
 	{
 		while (av[i][j])
 		{
-			c++;
+			ch++;
 			j++;
 		}
 
