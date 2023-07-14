@@ -5,7 +5,7 @@
 /**
  * main - check the code
  *
- * Return: 0
+ * Return: zero
  */
 int main(void)
 {
